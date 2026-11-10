@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tira LED Cálida 2700K",
+    "categoria": "Tiras LED",
+    "precio": 29900,
+    "stock": 10,
+    "imagen": "./assets/imagenes/tira-led-calida.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Tira LED RGB Neón",
+    "categoria": "Tiras LED",
+    "precio": 34900,
+    "stock": 8,
+    "imagen": "./assets/imagenes/tira-led-neón.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Tira LED Fría 6500K",
+    "categoria": "Tiras LED",
+    "precio": 22000,
+    "stock": 12,
+    "imagen": "./assets/imagenes/tira-led-fria.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Panel LED Embutir 18W",
+    "categoria": "Paneles",
+    "precio": 15000,
+    "stock": 15,
+    "imagen": "./assets/imagenes/panel-18w.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Panel LED Redondo 24W",
+    "categoria": "Paneles",
+    "precio": 16500,
+    "stock": 6,
+    "imagen": "./assets/imagenes/panel-24w.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Plafón LED Superficie 12W",
+    "categoria": "Paneles",
+    "precio": 9800,
+    "stock": 14,
+    "imagen": "./assets/imagenes/plafon-12w.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Lámpara de Pie Nórdica",
+    "categoria": "Lámparas",
+    "precio": 34000,
+    "stock": 5,
+    "imagen": "./assets/imagenes/lampara-nordica.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Lámpara Colgante Vintage",
+    "categoria": "Lámparas",
+    "precio": 22000,
+    "stock": 7,
+    "imagen": "./assets/imagenes/lampara-vintage.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Lámpara de Mesa Minimalista",
+    "categoria": "Lámparas",
+    "precio": 18500,
+    "stock": 9,
+    "imagen": "./assets/imagenes/lampara-mesa.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Perfil de Aluminio Difusor 1m",
+    "categoria": "Perfiles",
+    "precio": 6000,
+    "stock": 25,
+    "imagen": "./assets/imagenes/perfil-difusor.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Perfil de Aluminio Esquinero 2m",
+    "categoria": "Perfiles",
+    "precio": 6500,
+    "stock": 18,
+    "imagen": "./assets/imagenes/perfil-esquinero.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Perfil de Empotrar con Difusor",
+    "categoria": "Perfiles",
+    "precio": 8400,
+    "stock": 11,
+    "imagen": "./assets/imagenes/perfil-empotrar.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Lámpara de Escritorio LED",
+    "categoria": "Lámparas",
+    "precio": 19500,
+    "stock": 10,
+    "imagen": "./assets/imagenes/lampara-escritorio.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Aplique de Pared LED",
+    "categoria": "Lámparas",
+    "precio": 10000,
+    "stock": 8,
+    "imagen": "./assets/imagenes/aplique-pared.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Perfil Negro de Superficie 1m",
+    "categoria": "Perfiles",
+    "precio": 9200,
+    "stock": 15,
+    "imagen": "./assets/imagenes/perfil-negro.jpg"
+  }
+
+]
+
+
